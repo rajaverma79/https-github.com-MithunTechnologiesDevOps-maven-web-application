@@ -13,7 +13,7 @@
   <servlet-mapping>
     <servlet-name>mt</servlet-name>
     <url-pattern>/services/*</url-pattern>
-  </servlet-mapping>
+  </servlet-mappingn>
   <listener>
     <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
   </listener>
